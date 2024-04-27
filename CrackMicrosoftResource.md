@@ -36,7 +36,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |
 | [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | done |  |
-| [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  |  |  |
+| [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  | done |  |
 | [Find maximum single sell profit](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  |  |
 | [Missing Number](https://leetcode.com/problems/missing-number/)  |  |  |
 
