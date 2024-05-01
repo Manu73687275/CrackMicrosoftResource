@@ -72,12 +72,12 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  | done |  |
 | [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  | done  |  |
 | [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |  |  |
-| [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) |  |  |
+| [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) |done  |  |
 | [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  |  |  |
-| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
+| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  | done |  |
 | [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) |  |  |
 | [Max Rectangle in Binary Matrix]( https://leetcode.com/problems/maximal-rectangle/) |  |  |
-| [Maximum Product Subarray ]( https://leetcode.com/problems/maximum-product-subarray/) |  |  |
+| [Maximum Product Subarray ]( https://leetcode.com/problems/maximum-product-subarray/) | done |  |
 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1/) |  |  |
 | [Longest Arithmetic Subsequence]( https://leetcode.com/problems/longest-arithmetic-subsequence/) |  |  |
 | [Coin Change]( https://leetcode.com/problems/coin-change-2/)  |  |  |
