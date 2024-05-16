@@ -33,7 +33,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | done |  |
 | [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) | done |  |
 | [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |
+| [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | done |  |
 | [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | done |  |
 | [Find all Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)  | done |  |
